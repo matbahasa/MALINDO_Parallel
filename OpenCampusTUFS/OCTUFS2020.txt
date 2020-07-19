@@ -1,0 +1,86 @@
+1-1	Heloaooo.	こんにちは。
+1-2	Saya Faridah dari Program Bahasa Melayu, Universiti Bahasa Asing Tokyo atau TUFS.	東京外国語大学（TUFS）マレーシア語プログラムのファリダです。
+1-3	Dalam video ini saya hendak memperkenalkan Program Bahasa Melayu di TUFS untuk pelajar-pelajar sekolah tinggi supaya pelajar semua boleh pilih jurusan masing-masing di universiti nanti.	この動画では高校生に向けて、大学での専攻を選べるように、東京外大マレーシア語プログラムを紹介をします。
+2-1	Baiklah, terdapat dua perkara yang boleh dibanggakan berhubung dengan Program Bahasa Melayu di TUFS.	さて、東京外大マレーシア語プログラムには2つの誇るべき点があります。
+2-2	Pertama, Program Bahasa Melayu di TUFS adalah satu-satunya program bahasa Melayu di Jepun yang mempunyai kursus bahasa Melayu yang cuuukup lengkap.	まず、東京外大マレーシア語プログラムは日本で唯一、完全なマレー語の授業があるマレー語プログラムです。
+2-3	TUFS mempunyai kursus bahasa Melayu dari tahap asas hinggalah ke tahap tinggi yang unggul.	東京外大には初級から超級までのマレー語の授業があります。
+2-4	Selain itu, di TUFS, Program Bahasa Melayu dan Program Bahasa Indonesia wujud secara berasingan, tidak disatukan seperti di universiti-universiti lain di Jepun.	また、東京外大ではマレー語プログラムとインドネシア語プログラムが別々にあり、国内他大学と違って一緒にされてません。
+2-5	Kedua ialah saiz kelas yang kecil.	2つ目は、クラスサイズが小さいことです。
+2-6	Pada setiap tahun, jumlah pelajar yang diambil oleh TUFS adalah seramai lebih kurang 10 orang sahaja.	毎年、東京外大が取る学生の数は10名程度に限られます。
+3-1	Sekiranya anda masuk ke Program Bahasa Melayu TUFS, jadual kelas anda adalah seperti berikut.	東京外大マレーシア語プログラムに入学したら、時間割表は次のようになります。
+3-2	Bagi dua tahun pertama, anda akan memberi tumpuan kepada pembelajaran bahasa Melayu.	最初の2年間はマレー語の勉強を集中的に行います。
+3-3	Seronok, kan!	楽しそうでしょ？
+3-4	Selain bahasa Melayu, anda juga akan belajar tentang masyarakat Malaysia dan Asia Tenggara.	マレー語の他にマレーシアや東南アジアの社会についても学びます。
+3-5	Setelah bahasa Melayu anda menjadi cukup baik, anda mula menceburi bidang pengkhususan masing-masing.	マレー語が十分上達したところで各自の専門分野の勉強に入ります。
+3-6	Contohnya, bidang linguistik, sosiologi, antropologi, politik, ekonomi dan lain-lain lagi.	例えば、言語学、社会学、人類学、政治学、経済学などです。
+3-7	Pada tahun ketiga, anda juga boleh mula belajar bahasa jurusan lain seperti bahasa Indonesia, bahasa Turki dan sebagainya.	3年目には、インドネシア語やトルコ語など、他専攻の言語を勉強し始めることもできます。
+4-1	Mungkin anda tidak tahu bagaimana bentuk rupa bahasa Melayu?	マレー語がどんな感じか知らないかもしれませんね。
+4-2	Bahasa Melayu bahasa yang macam mana?	マレー語はどんな言語なんでしょうか？
+4-3	Bahasa Melayu juga kadang-kadang dipanggil bahasa Malaysia.	マレー語は「マレーシア語」と呼ばれることもあります。
+4-4	Bahasa Melayu bahasa kebangsaan di Malaysia, Singapura dan Brunei.	マレー語はマレーシア、シンガポール、ブルネイの国語です。
+4-5	Baanyakkk kosa kata dan tatabahasa dalam bahasa Melayu hampir serupa dengan bahasa Indonesia sebab bahasa-bahasa ini berasal dari satu rumpun yang sama.	共通の祖先から発生した言語であるために、マレー語の語彙や文法はインドネシア語とほぼ同じものがたくさんあります。
+4-6	Bahasa Melayu senang betullll hendak belajar!	マレー語はとても学びやすい言語です！
+4-7	Cuba fahamkan penerangan berikut.	これから説明するので、考えてみて下さいね。
+4-8	Bahasa Melayu guna huruf rumi.	マレー語はローマ字を使います。
+4-9	Artikel seperti "the" dan "a" dalam bahasa Inggeris, tidak perlu dalam bahasa Melayu.	マレー語では、英語のtheやaのような冠詞は必要ありません。
+4-10	Perubahan seperti "I-my-me" pun tidak ada dalam bahasa Melayu.	マレー語にはI-my-meのような語形変化もありません。
+4-11	Bentuk kata ganti nama, sama sahaja, tidak kira pada kedudukan subjek atau objek.	主語や目的語の位置にかかわらず、代名詞の形は同じです
+4-12	Saya tolong AWAK.	Saya tolong AWAK. (私が君を手伝う)
+4-13	AWAK tolong dia.	AWAK tolong dia. (君が彼[女]を手伝う)
+4-14	Kata kerja pun tidak berubah bentuknya sama seperti bahasa Inggeris.	動詞も英語のように語形変化することがありません。
+4-15	Bila subjek "saya", bentuk kata kerja "tolong".	主語がsaya (私)の時、動詞の形はtolongです。
+4-16	Bila subjek "awak" pun "tolong" juga.	主語がawak (君)の時もtolongです。
+4-17	Bila subjek "dia" pun "tolong" juga.	主語がdia (彼[女])の時もtolongです。
+4-18	Dalam bahasa Inggeris, I help, she helps.	英語だと、I help、she helpsですね。
+4-19	Dalam bahasa Melayu tidak ada kalaaa.	マレー語には時制がありません。
+4-20	Maka, kesemua ayat bahasa Melayu tadi boleh membawa maksud "tetsudaU" dan juga "tetsudatTA".	なので、先程の文はすべて「手伝う」も「手伝った」も意味します。
+4-21	Urutan kata pula sama seperti bahasa Inggeris: SVO.	語順は英語と同じSVOです。
+5-1	Bila belajar sesuatu bahasa, kita juga belajar tentang negaranya.	言語を学ぶ時には、その言語が話されている国についても学びます。
+5-2	Maka, sekarang, saya hendak memperkenalkan negara Malaysia.	そこで、マレーシアという国について紹介したいと思います。
+5-3	Malaysia terletak di Asia Tenggara dan terdiri daripada dua bahagian, iaitu Semenanjung Malaysia dan bahagian utara Pulau Borneo.	マレーシアは東南アジアに位置し、半島マレーシアとボルネオ島北部の2つの部分から成り立ちます。
+5-4	Jumlah penduduk Malaysia kira-kira 33 juta orang.	マレーシアの人口は約3,300万人です。
+5-5	Malaysia sebuah negara berbilang bangsa.	マレーシアは多民族国家です
+5-6	Selain kaum Melayu dan kaum pribumi yang lain, di Malaysia juga ada kaum Cina dan India.	マレー人とその他の先住民族に加え、マレーシアには華人やインド人もいます。
+5-7	Agama rasmi Malaysia agama Islam.	マレーシアの国教はイスラーム教です。
+5-8	Tetapi Malaysia juga ada ramai penduduk yang beragama Kristian, Hindu dan Buddha.	ですが、マレーシアにはキリスト教、ヒンドゥー教、仏教を信じる人も大勢います。
+5-9	Dari segi bahasa pula, bahasa kebangsaan dan bahasa rasmi Malaysia adalah bahasa Melayu.	言語面では、マレーシアの国語・公用語はマレー語です。
+5-10	Tetapi baaaanyak bahasa lain digunakan di Malaysia.	ですが、マレーシアでは他にも数多くの言語が使われています。
+5-11	Contohnya, bahasa Cina dan bahasa Tamil.	例えば、華語やタミル語です。
+5-12	Bahasa Inggeris pun digunakan di bandar raya besar seperti Kuala Lumpur.	クアラルンプールのような大都市では英語も用いられます。
+5-13	Hubungan antara Malaysia dan Jepun sanggggat erat.	マレーシアと日本との関係は非常に密接です。
+5-14	Baaanyak syarikat Jepun ada di Malaysia.	マレーシアには多数の日系企業が進出しています。
+6-1	Sekarang saya hendak menjawab soalan-soalan lazim yang selalu ditanya oleh pelajar-pelajar sekolah tinggi dan ibu bapa mereka, ya.	ここからは、高校生や保護者の方からよくある質問にお答えしますね。
+7-1	Bolehkah saya belajar di luar negeri?	留学はできますか？
+7-2	TUFS ada program pertukaran pelajar dengan Universiti Kebangsaan Malaysia, Universiti Brunei Darussalam dan Universiti Nasional Singapura.	東京外大にはマレーシア国民大学、ブルネイ・ダルサラーム大学、シンガポール国立大学との間に交換留学制度があります。
+7-3	Pelajar dari jurusan lain pun boleh pergi belajar di universiti-universiti ini.	他専攻の学生もこれらの大学に留学できます。
+7-4	Sebaliknya, pelajar jurusan bahasa Melayu juga boleh pergi belajar di universiti pilihan mereka selain daripada ketiga-tiga buah universiti ini.	逆に、マレーシア語専攻の学生が三大学以外の大学に留学することもできます。
+8-1	Ramaikah pelajar yang belajar di luar negeri?	留学する学生は多いですか？
+8-2	Lebih kurang sepertiga pelajar belajar di luar negeri dalam tempoh yang panjang, selama setahun.	約3分の1の学生が長期間（1年間）留学します。
+8-3	Kalau ambil kira tempoh yang pendek, kira-kira separuh daripada pelajar TUFS belajar di luar negeri.	短期も入れると、東京外大の学生の約半数が留学します。
+8-4	Selain itu, pada peringkat penghujung tahun satu, hampir semua pelajar mengikuti Program Kembara Ilmu Inap Desa selama tiga minggu di Malaysia dan Singapura.	
+また、1年次の終わりにはほとんどの学生がマレーシア・シンガポールでの3週間のホームステイ・プログラムに参加します
+9-1	Bolehkah saya belajar bahasa dan wilayah lain?	他の言語や地域を勉強できますか？
+9-2	Boleh!	できますよ！
+9-3	Sudah tentu boleh.	もちろんできます。
+9-4	TUFS menawarkan pelbagai kursus untuk tujuan itu.	東京外大にはそのためのさまざまな授業があります。
+10-1	Adakah wajib bagi saya mempelajari bahasa Melayu?	マレー語を勉強しなければいけませんか？
+10-2	Sudah tentu anda wajib mempelajari bahasa Melayu.	当然マレー語を勉強しなければいけません。
+10-3	Malah, anda perlu berusaha mendapatkan sekian banyak kredit bahasa Melayu untuk menamatkan pengajian anda di TUFS.	というか、卒業するため、かなり多くのマレー語の単位を取得するために努力する必要があります。
+11-1	Bolehkah pelajar jurusan lain belajar bahasa Melayu?	他専攻の学生もマレー語を勉強できますか？
+11-2	Ya, boleh.	はい、できます。
+11-3	Empat daripada lima kursus tahun satu terbuka kepada pelajar dari jurusan lain.	1年生用の5科目のうち4科目が他専攻の学生に開かれています。
+11-4	Cuma, biasanya anda belum boleh mengambil kursus-kursus ini pada tahun satu dan tahun dua, disebabkan timbulnya masalah jadual waktu.	ただ、普通、1・2年生の時には、時間割上の問題が生じるため、まだこれらの科目を履修できません。
+12-1	Adakah saya wajib menulis tesis tentang Malaysia?	マレーシアについての卒業論文を書かなければなりませんか？
+12-2	Hmm... sebenarnya tidak wajib, tetapi sudah tentulah kami menggalakkan pelajar-pelajar membuat kajian tentang Malaysia juga.	ええと、実はそういうわけではないのですが、もちろん学生の皆さんにはマレーシアについての研究をお勧めします。
+13-1	Bolehkah pelajar jurusan lain memilih pensyarah Program Bahasa Melayu sebagai penyelia?	他専攻の学生はマレーシア語プログラムの教員を指導教員にできますか？
+13-2	Ya, boleh, asalkan bidang pengkhususan pensyarah Program Bahasa Melayu itu sesuai dengan minat dan kajian anda.	はい、マレーシア語プログラムの教員の専門分野が自分の興味や研究内容と合っていさえすれば、できます。
+13-3	Anda boleh pilih kami sebagai penyelia, tidak kira bahasa dan wilayah jurusan anda.	自分の専攻言語・地域とは関係なく、我々を指導教員に選ぶことができます。
+14-1	Apakah pekerjaan atau bidang pekerjaan yang boleh diceburi oleh graduan Program Bahasa Melayu?	卒業したら、どのような職業や業種に関われますか？。
+14-2	Setakat ini pelajar Program Bahasa Melayu TUFS bekerja di pelbagai industri.	今まで、東京外大マレーシア語プログラムの卒業生は様々な業種で働いています。
+14-3	Ada di antara mereka dapat bekerja di syarikat yang berkaitan dengan Malaysia juga.	中にはマレーシアに関係する会社で働ける人もいます。
+14-4	Untuk maklumat lanjut, sila lihat laman web Program Bahasa Melayu TUFS.	詳細は東京外大マレーシア語プログラムのウェブサイトをご覧ください。
+15-1	Baiklah.	さて、
+15-2	Itu sahaja setakat ini, sedikit sebanyak maklumat berhubung dengan Program Bahasa Melayu di TUFS daripada saya.	東京外大マレーシア語プログラムに関する私からの情報はここまでです。
+15-3	Saya berharap kita boleh belajar bahasa Melayu bersama-sama di TUFS nanti.	東京外大で一緒にマレー語を勉強できるといいですね。
+15-4	Hingga jumpa lagi!	またお会いしましょう！
+15-5	Dan, salam hormat daripada saya, Bonda Faridah.	敬意を込めて。ファリダお母さんでした。
