@@ -1,0 +1,375 @@
+{"id":0,"text":"1  \tMETA\t","label":[]}
+{"id":1,"text":"2  \tMETA\t","label":[]}
+{"id":2,"text":"3  \tH. Tuah\tBila sampai waktunya, kita akan bersama, adindaku.","label":[[53,61,"2nd"]]}
+{"id":3,"text":"4  \tH. Tuah\t<(suara sahaja)>","label":[]}
+{"id":4,"text":"5  \tPGL\tAdinda anggap sebagai janji.","label":[[8,14,"1st"]]}
+{"id":5,"text":"6  \tPGL\t<(mulut tidak bergerak sambil berputar-putar seperti mencari-cari)>","label":[]}
+{"id":6,"text":"7  \tDayang 1\tJangan bimbang, Tuan Puteri.","label":[[29,40,"address"]]}
+{"id":7,"text":"8  \tDayang 1\tHari bahagia itu akan datang juga nanti.","label":[]}
+{"id":8,"text":"9  \tPGL\tAdinda bersumpah, jikalau kekanda tidak kembali, adinda akan menyusul kekanda.","label":[[8,14,"1st"],[57,63,"1st"]]}
+{"id":9,"text":"10 \tDayang 2\tNampaknya Tuan Puteri sudah mabuk cinta.","label":[[23,34,"2nd"]]}
+{"id":10,"text":"11 \tDayang 2\tSiang malam asyik berkata sendirian.","label":[]}
+{"id":11,"text":"12 \tPGL\tItu petanda aku harus pergi kepadanya.","label":[[20,23,"1st"]]}
+{"id":12,"text":"13 \tPGL\t<(memandang ke depan sambil mata menyatakan keyakinan)>","label":[]}
+{"id":13,"text":"14 \tDayang 1\tTuan Puteri, Tuan Puteri bersabarlah, Tuan Puteri.","label":[[13,24,"address"],[13,24,"address"],[13,24,"address"]]}
+{"id":14,"text":"15 \tPGL\tAku ingin menjadi sebahagian dari impiannya.","label":[[8,11,"1st"]]}
+{"id":15,"text":"16 \tPGL\tSuatu waktu nanti kami pasti bersama.","label":[]}
+{"id":16,"text":"17 \tPGL\tDia akan datang kepadaku.","label":[[30,32,"1st"]]}
+{"id":17,"text":"18 \tPGL\tAku mau ke Melaka, ke Gunung Ledang.","label":[[8,11,"1st"]]}
+{"id":18,"text":"19 \tDayang 3\tKalau sudah jodoh, tak ke mana, Tuan Puteri.","label":[[45,56,"address"]]}
+{"id":19,"text":"20 \tDayang 3\tJodoh dan pertemuan itu di tangan tuhan.","label":[]}
+{"id":20,"text":"21 \tDayang 1, 2, 3\t","label":[]}
+{"id":21,"text":"22 \tDayang 1, 2, 3\tDi waktu malam bulan terang","label":[]}
+{"id":22,"text":"23 \tDayang 1, 2, 3\tJalan-jalan ke Kuala Loyang","label":[]}
+{"id":23,"text":"24 \tDayang 1, 2, 3\tKalau hati dah mula sayang","label":[]}
+{"id":24,"text":"25 \tDayang 1, 2, 3\tJadilah engkau si gila bayang","label":[]}
+{"id":25,"text":"26 \tDayang 1, 2, 3\tBurung balam terbang melayang","label":[]}
+{"id":26,"text":"27 \tDayang 1, 2, 3\tMencari makan sampai senja","label":[]}
+{"id":27,"text":"28 \tDayang 1, 2, 3\tSiang malam asyik terkenang","label":[]}
+{"id":28,"text":"29 \tDayang 1, 2, 3\tSehari tak jumpa macam nak gila","label":[]}
+{"id":29,"text":"30 \tDayang 1, 2, 3\tJangan turutkan hati","label":[]}
+{"id":30,"text":"31 \tDayang 1, 2, 3\tNanti meranalah diri","label":[]}
+{"id":31,"text":"32 \tDayang 1, 2, 3\tKalau sedang bercinta","label":[]}
+{"id":32,"text":"33 \tDayang 1, 2, 3\tUsahlah dibuai rasa","label":[]}
+{"id":33,"text":"34 \tDayang 1, 2, 3\tPergi mencari daun palas","label":[]}
+{"id":34,"text":"35 \tDayang 1, 2, 3\tTerjumpa si anak kelawar","label":[]}
+{"id":35,"text":"36 \tDayang 1, 2, 3\tKalau cinta sudah berbalas","label":[]}
+{"id":36,"text":"37 \tDayang 1, 2, 3\tTakkan lari gunung yang dikejar","label":[]}
+{"id":37,"text":"38 \tNarrator 1\tAdipati menolak perutusan Pangeran Demak yang menyatakan keinginan untuk menjadi pelindung Majapahit.","label":[]}
+{"id":38,"text":"39 \tNarrator 1\tKerana kesal Pangeran Demak terhadap Adipati, Majapahit diserangnya.","label":[]}
+{"id":39,"text":"40 \tNarrator 1\tDemi keamanan Majapahit, Adipati bercadang untuk menjadikan Puteri sebagai tali pengikat kedua buah negara.","label":[]}
+{"id":40,"text":"41 \tNarrator 1\tAkan tetapi, Puteri telah ke Gunung Ledang menunggu cinta agungnya.","label":[]}
+{"id":41,"text":"42 \tMETA\t","label":[]}
+{"id":42,"text":"43 \tAdipati\tKedamaian Majapahit di dalam bahaya kerana tulahmu.","label":[[60,62,"2nd"]]}
+{"id":43,"text":"44 \tAdipati\tCinta adikku kepadamu hanya akan mendatangkan bala.","label":[[31,33,"2nd"]]}
+{"id":44,"text":"45 \tH. Tuah\tSemuanya sudah ditakdirkan.","label":[]}
+{"id":45,"text":"46 \tH. Tuah\tJangan diriku kaupersalahkan.","label":[]}
+{"id":46,"text":"47 \tH. Jebat\tBenar kata Tuah itu.","label":[[24,28,"2nd"]]}
+{"id":47,"text":"48 \tH. Jebat\tSahabatku Tuah bukan sebarangan orang.","label":[[23,27,"2nd"]]}
+{"id":48,"text":"49 \tH. Jebat\tDemi Melaka, Tuah sanggup bertumpah darah.","label":[[26,30,"2nd"]]}
+{"id":49,"text":"50 \tAdipati\tKalau bukan kerana baginda Sultan Melaka, sudah kucincang kau.","label":[[70,73,"2nd"]]}
+{"id":50,"text":"51 \tAdipati\t<(muka marah, rasa ingin menyerang H. Tuah)>","label":[]}
+{"id":51,"text":"52 \tH. Tuah\tKalau bukan kerana baginda Sultan...","label":[]}
+{"id":52,"text":"53 \tH. Tuah\t<(menggerakkan tangan untuk membalas serangan Adipati, belum sempat serangan mengenai tubuh masing-masing, berhenti dan Adipati masuk ke ruang Istana)>","label":[]}
+{"id":53,"text":"54 \tH. Jebat\tSudahlah, Tuah, tak ada gunanya engkau membuka langkah di sini.","label":[[45,51,"2nd"],[23,27,"address"]]}
+{"id":54,"text":"55 \tH. Jebat\tNanti, seluruh istana riuh rendah, kacau bilau kita dibuatnya!","label":[]}
+{"id":55,"text":"56 \tH. Tuah\tKalau ku ikutkan hati, nak saja ku lawan, Jebat.","label":[[18,20,"1st"],[18,20,"1st"],[54,59,"address"]]}
+{"id":56,"text":"57 \tMETA\t","label":[]}
+{"id":57,"text":"58 \tS. Mahmud\tBeta menerima cadangan dari Adipati.","label":[[14,18,"1st"]]}
+{"id":58,"text":"59 \tS. Mahmud\tBeta mengampunkan segalanya.","label":[[14,18,"1st"]]}
+{"id":59,"text":"60 \tS. Mahmud\tBeta bersetuju untuk memperkenankan harapan hati dari rakyat Majapahit untuk Puteri Retno Jumilah, adinda kepada Adipati Handaya Ningrat dijadikan permaisuri beta.","label":[[14,18,"1st"],[172,176,"1st"]]}
+{"id":60,"text":"61 \tS. Mahmud\t<(senyum bangga)>","label":[]}
+{"id":61,"text":"62 \tNarrator, Dayang 1, 2, 3, Nenek, Cucu, H. Jebat\tDaulat Tuanku.","label":[[59,65,"address"]]}
+{"id":62,"text":"63 \tNarrator, Dayang 1, 2, 3, Nenek, Cucu, H. Jebat\t<(tunduk hormat)>","label":[]}
+{"id":63,"text":"64 \tS. Mahmud\tApa tidak molek cadangan beta itu, Datuk Laksamana?","label":[[49,64,"address"]]}
+{"id":64,"text":"65 \tS. Mahmud\t<(muka sinis)>","label":[]}
+{"id":65,"text":"66 \tH. Tuah\tAmpun Tuanku.","label":[[18,24,"address"]]}
+{"id":66,"text":"67 \tH. Tuah\tJika itu kehendak Tuanku, patik junjung di atas batu jemala patik.","label":[[30,36,"2nd"]]}
+{"id":67,"text":"68 \tH. Tuah\tAmpun Tuanku.","label":[[18,24,"address"]]}
+{"id":68,"text":"69 \tH. Tuah\t<(muka sedih, tapi ditahan dalam setianya pada Sultan)>","label":[]}
+{"id":69,"text":"70 \tS. Mahmud\tDatuk Bendahara, sediakan segala kelengkapan.","label":[[14,29,"address"]]}
+{"id":70,"text":"71 \tH. Jebat\tTuah, Tuah.","label":[[13,17,"address"],[13,17,"address"]]}
+{"id":71,"text":"72 \tH. Jebat\tPerintah Tuanku, dijunjung tinggi.","label":[[22,28,"2nd"]]}
+{"id":72,"text":"73 \tH. Jebat\tBadan sendiri dibiarkan hancur binasa.","label":[]}
+{"id":73,"text":"74 \tH. Jebat\tApakah itu suratan takdir namanya?","label":[]}
+{"id":74,"text":"75 \tMETA\t","label":[]}
+{"id":75,"text":"76 \tMETA\t<(ada bunyi... aneh!!)","label":[]}
+{"id":76,"text":"77 \tTun Mamat\tAda apa, Datuk Laksamana?","label":[[23,38,"address"]]}
+{"id":77,"text":"78 \tMETA\tTun Mamat <(pandang ke arah Datuk)>","label":[]}
+{"id":78,"text":"79 \tH. Tuah\t<(tangan di telinga seperti mendengar sesuatu, mulut tidak berkata-kata)>","label":[]}
+{"id":79,"text":"80 \tH. Tuah\tTabik datuk anak cucu tumpang lalu, tabik datuk anak cucu tumpang lalu.","label":[[18,23,"1st"],[18,23,"1st"]]}
+{"id":80,"text":"81 \tS. Setia\tNenek.","label":[[13,18,"address"]]}
+{"id":81,"text":"82 \tS. Setia\tSiapakah gerangan nenek?","label":[[31,36,"address"]]}
+{"id":82,"text":"83 \tS. Setia\tDan apa tujuan nenek jalan seorang diri dalam hutan ini?","label":[[28,33,"2nd"]]}
+{"id":83,"text":"84 \tS. Setia\t<(suara ketakutan)>","label":[]}
+{"id":84,"text":"85 \tN. Kebayan\tNenek memang tinggal di sini, cu.","label":[[15,20,"1st"],[45,47,"address"]]}
+{"id":85,"text":"86 \tN. Kebayan\t<(bergerak ke arah H. Tuah)>","label":[]}
+{"id":86,"text":"87 \tCucu\tNenek, jom balik, takut kita di sini.","label":[[9,14,"address"]]}
+{"id":87,"text":"88 \tTun Mamat\tNama cucu Tun Mamat.","label":[[19,23,"1st"]]}
+{"id":88,"text":"89 \tTun Mamat\tJangan takut.","label":[]}
+{"id":89,"text":"90 \tTun Mamat\tKami tidak apa-apakan.","label":[]}
+{"id":90,"text":"91 \tTun Mamat\tKami nak tumpang bertanya, nenek pernah berjumpa dengan Puteri tidak?","label":[[41,46,"2nd"]]}
+{"id":91,"text":"92 \tN. Kebayan\tPer...nah.","label":[]}
+{"id":92,"text":"93 \tN. Kebayan\t<(teragak-agak)>","label":[]}
+{"id":93,"text":"94 \tCucu\tNenek..., tuan puteri yang cantik jelita itu, kan...","label":[[9,14,"address"]]}
+{"id":94,"text":"95 \tTun Mamat\tBila?","label":[]}
+{"id":95,"text":"96 \tTun Mamat\tDi mana?","label":[]}
+{"id":96,"text":"97 \tN. Kebayan\tDi air terjun, sebelah timur sana.","label":[]}
+{"id":97,"text":"98 \tN. Kebayan\tBila nenek ke sana, Puteri pasti ada.","label":[[20,25,"1st"]]}
+{"id":98,"text":"99 \tCucu\tBetul, betul kata nenek.","label":[]}
+{"id":99,"text":"100\tCucu\tTuan Puteri dan dayang-dayang suka bermain di air terjun.","label":[]}
+{"id":100,"text":"101\tS. Setia\tKami sebenarnya dalam perjalanan untuk meminang puteri yang berada di puncak gunung sana.","label":[]}
+{"id":101,"text":"102\tS. Setia\tNama cu, Sang Setia.","label":[[18,20,"1st"]]}
+{"id":102,"text":"103\tN. Kebayan\tMeminang untuk siapa, cu?","label":[[37,39,"address"]]}
+{"id":103,"text":"104\tCucu\tApa ertinya, nenekkkk??","label":[[22,30,"address"]]}
+{"id":104,"text":"105\tN. Kebayan\tIsyyyy, cucu nenek ni menyampuk cakap orang.","label":[]}
+{"id":105,"text":"106\tS. Setia\tBaginda Sultan Mahmud, nek.","label":[[36,39,"address"]]}
+{"id":106,"text":"107\tN. Kebayan\tUhuh, jangan berangan meniti laut, takut airnya menjadi api.","label":[]}
+{"id":107,"text":"108\tH. Tuah\tKami menjunjung titah baginda Sultan.","label":[]}
+{"id":108,"text":"109\tN. Kebayan\tBaguslah, cu.","label":[[25,27,"address"]]}
+{"id":109,"text":"110\tN. Kebayan\tTaat yang tiada kesudahan, tiada penghujung.","label":[]}
+{"id":110,"text":"111\tN. Kebayan\t<(Bersyair sambil beredar meninggalkan rombongan)>","label":[]}
+{"id":111,"text":"112\tCucu\t","label":[]}
+{"id":112,"text":"113\tCucu\tNenek-nenek si bongkok tiga","label":[]}
+{"id":113,"text":"114\tCucu\tSiang mengantuk malam berjaga.","label":[]}
+{"id":114,"text":"115\tCucu\tMencari cucu di mana ada.","label":[]}
+{"id":115,"text":"116\tCucu\tNenekku kahwin dengan anak raja","label":[]}
+{"id":116,"text":"117\tCucu\tCucu-cucu tak dapat lari","label":[]}
+{"id":117,"text":"118\tCucu\tNenek tua banyak sakti,","label":[]}
+{"id":118,"text":"119\tCucu\tSekarang juga nenek mencari","label":[]}
+{"id":119,"text":"120\tCucu\tSiapa kena dia yang menjadi","label":[]}
+{"id":120,"text":"121\tN. Kebayan\tCepat, cu, mari kita pulang.","label":[[22,24,"address"]]}
+{"id":121,"text":"122\tN. Kebayan\tIkut langkah nenek, ya.","label":[[28,33,"1st"]]}
+{"id":122,"text":"123\tN. Kebayan\tSesat di hutan, matilah cu dibaham harimau, tau!","label":[[39,41,"2nd"]]}
+{"id":123,"text":"124\tMETA\t","label":[]}
+{"id":124,"text":"125\tN. Kebayan\tCucu semua sekadar tamu yang singgah","label":[]}
+{"id":125,"text":"126\tN. Kebayan\tDi tempat nenek meredakan lelah","label":[]}
+{"id":126,"text":"127\tN. Kebayan\tDalam kembara panjang yang tak tertelah","label":[]}
+{"id":127,"text":"128\tN. Kebayan\tAda kalanya cucu kehilangan arah","label":[]}
+{"id":128,"text":"129\tN. Kebayan\tSampai kini saat berpisah","label":[]}
+{"id":129,"text":"130\tN. Kebayan\tKerana kembara perlu cucu teruskan","label":[]}
+{"id":130,"text":"131\tN. Kebayan\tMeredah mujur di hutan rimba","label":[]}
+{"id":131,"text":"132\tN. Kebayan\tBerbekalkan tawakal mengharapkan ikhsan","label":[]}
+{"id":132,"text":"133\tN. Kebayan\tSeteguk syarbat penawar dahaga","label":[]}
+{"id":133,"text":"134\tN. Kebayan\tCukup nenek kira memberi tenaga","label":[]}
+{"id":134,"text":"135\tN. Kebayan\tUntuk cucu terus mengembara","label":[]}
+{"id":135,"text":"136\tN. Kebayan\tDalam mencari tuan puteri untuk baginda sultan","label":[]}
+{"id":136,"text":"137\tNarrator 2\tPerjalanan diteruskan sampai suatu ketika para rombongan kepenatan.","label":[]}
+{"id":137,"text":"138\tNarrator 2\tKetika sedang berehat di bawah pohon, Puteri menghantar serangan menggunakan kesaktiannya, ramailah yang terjerat akar pohon.","label":[]}
+{"id":138,"text":"139\tNarrator 2\tKetahuan oleh H. Tuah bahawa serangan itu dari cinta hatinya.","label":[]}
+{"id":139,"text":"140\tNarrator 2\tMaka, bersuaralah H. Tuah di dalam hati, menghantar kata-katanya kepada Puteri.","label":[]}
+{"id":140,"text":"141\tH. Tuah\tDinda...","label":[[12,17,"address"]]}
+{"id":141,"text":"142\tH. Tuah\tIngin benar kanda bertemu dinda.","label":[[24,29,"1st"],[38,43,"2nd"]]}
+{"id":142,"text":"143\tH. Tuah\tTidak inginkah dinda bertemu kanda lagi?","label":[[41,46,"1st"],[27,32,"2nd"]]}
+{"id":143,"text":"144\tH. Tuah\t<(Bersajak merayu Tuan Puteri Retno)>","label":[]}
+{"id":144,"text":"145\tH. Tuah\t","label":[]}
+{"id":145,"text":"146\tH. Tuah\tDengan dada penuh debar","label":[]}
+{"id":146,"text":"147\tH. Tuah\tDengan rasa penuh gentar","label":[]}
+{"id":147,"text":"148\tH. Tuah\tAku tetap sedar","label":[[12,15,"1st"]]}
+{"id":148,"text":"149\tH. Tuah\tBahawa ia akan beredar","label":[]}
+{"id":149,"text":"150\tH. Tuah\tDengan dada penuh debar","label":[]}
+{"id":150,"text":"151\tH. Tuah\tDengan rasa penuh gentar","label":[]}
+{"id":151,"text":"152\tH. Tuah\tAku tetap sedar","label":[[12,15,"1st"]]}
+{"id":152,"text":"153\tH. Tuah\tBahawa belum mampu kupenuhi ikrar","label":[]}
+{"id":153,"text":"154\tH. Tuah\tSempurna bersama","label":[]}
+{"id":154,"text":"155\tH. Tuah\tBersemilah cinta sukma","label":[]}
+{"id":155,"text":"156\tH. Tuah\tTenggelam dalam dakapan rasa","label":[]}
+{"id":156,"text":"157\tH. Tuah\tKu peroleh makna bahagia","label":[[12,14,"1st"]]}
+{"id":157,"text":"158\tH. Tuah\tDengan dada penuh debar","label":[]}
+{"id":158,"text":"159\tH. Tuah\tDengan rasa penuh gentar","label":[]}
+{"id":159,"text":"160\tH. Tuah\tTetap daku menunggu penuh sabar","label":[]}
+{"id":160,"text":"161\tH. Tuah\tAkan pertemuan semula yang membawa sinar","label":[]}
+{"id":161,"text":"162\tPGL\t<(berhenti menghantar serangan)>","label":[]}
+{"id":162,"text":"163\tDayang 1\tTuan Puteri, jangan diikutkan rasa hati, kelak binasa badan.","label":[[13,24,"address"]]}
+{"id":163,"text":"164\tDayang 2\tYa, tuan puteri, dengarlah dulu cerita rombongan Melaka.","label":[[17,28,"address"]]}
+{"id":164,"text":"165\tDayang 2\tJangan mereka diserang begitu kejam.","label":[]}
+{"id":165,"text":"166\tDayang 3\tBawalah bersabar, tuan puteri.","label":[[31,42,"address"]]}
+{"id":166,"text":"167\tDayang 3\tRancangan tuhan yang maha esa sebaik-baik rancangan.","label":[]}
+{"id":167,"text":"168\tTun Mamat\tDatuk Laksamana, Datuk Bendahara menyuruh hamba pergi seorang sahaja berjumpa Puteri.","label":[[56,61,"1st"],[14,29,"address"]]}
+{"id":168,"text":"169\tH. Tuah\tMengapa?","label":[]}
+{"id":169,"text":"170\tH. Tuah\tHamba yang dititah oleh baginda.","label":[[12,17,"1st"]]}
+{"id":170,"text":"171\tTun Mamat\tDatuk Bendahara menyuruh menyatakan ini kepada Datuk.","label":[]}
+{"id":171,"text":"172\tTun Mamat\tSemua ini untuk kepentingan baginda Sultan dan kepentingan Datuk Laksamana jua.","label":[[73,88,"2nd"]]}
+{"id":172,"text":"173\tTun Mamat\tMaafkan hamba.","label":[[22,27,"1st"]]}
+{"id":173,"text":"174\tTun Mamat\tHamba hanya menjalankan tugas hamba.","label":[]}
+{"id":174,"text":"175\tH. Tuah\tTuanku telah memperkenankan pemergian hamba ini, orang kaya.","label":[[50,55,"1st"],[12,18,"2nd"]]}
+{"id":175,"text":"176\tH. Tuah\tDan hamba akan menunaikannya.","label":[[16,21,"1st"]]}
+{"id":176,"text":"177\tMETA\t","label":[]}
+{"id":177,"text":"178\tH. Tuah\t<(berlari-lari mendapatkan Puteri.","label":[]}
+{"id":178,"text":"179\tH. Tuah\tSaling menatap penuh rasa cinta dan rindu kerana sudah lama berjauhan)>","label":[]}
+{"id":179,"text":"180\tH. Tuah\tDah lama tunggu adinda, buah hatiku?","label":[[28,34,"2nd"],[36,47,"address"]]}
+{"id":180,"text":"181\tPGL\tIya, kekanda.","label":[[13,20,"address"]]}
+{"id":181,"text":"182\tPGL\t<(dengan senyuman)>","label":[]}
+{"id":182,"text":"183\tH. Tuah\tBerpijak juga dinda pasir tanah kanda.","label":[[44,49,"1st"],[26,31,"2nd"]]}
+{"id":183,"text":"184\tPGL\tApa dengan tongkat, kanda ke mari?","label":[[28,33,"2nd"]]}
+{"id":184,"text":"185\tPGL\t<(sambil ketawa kecil)>","label":[]}
+{"id":185,"text":"186\tH. Tuah\tDemi cinta, tiada gunung terlalu tinggi.","label":[]}
+{"id":186,"text":"187\tPGL\tKini kita sama-sama berada di puncaknya.","label":[]}
+{"id":187,"text":"188\tPGL\tBagai mimpi rasanya kekanda berkata-kata cinta kepada adinda.","label":[[62,68,"1st"],[28,35,"2nd"]]}
+{"id":188,"text":"189\tH. Tuah\tSuaramu membuka hatiku yang merindu.","label":[[17,19,"2nd"]]}
+{"id":189,"text":"190\tH. Tuah\tKini aku merasa deruan angin menusuk dada.","label":[[17,20,"1st"]]}
+{"id":190,"text":"191\tPGL\tMengapa cinta dinda diuji sebegini jauh, kekanda?","label":[[22,27,"1st"],[49,56,"address"]]}
+{"id":191,"text":"192\tPGL\t<(muka sedih)>","label":[]}
+{"id":192,"text":"193\tH. Tuah\t<(mendekati PGL sambil tersenyum)>","label":[]}
+{"id":193,"text":"194\tH. Tuah\tKanda lupa cinta dinda seagung maya.","label":[[12,17,"1st"],[29,34,"2nd"]]}
+{"id":194,"text":"195\tPGL\tKalau cinta kekanda, bukan semesta luasnya?","label":[[20,27,"2nd"]]}
+{"id":195,"text":"196\tH. Tuah\tMasih kecil dibanding cinta dinda.","label":[[40,45,"address"]]}
+{"id":196,"text":"197\tPGL\tTetapi kanda ke mari juga.","label":[[15,20,"2nd"]]}
+{"id":197,"text":"198\tH. Tuah\tLaksana insan haus dahaga bertemu air satu telaga.","label":[]}
+{"id":198,"text":"199\tPGL\tKanda teguh memegang janji.","label":[[8,13,"2nd"]]}
+{"id":199,"text":"200\tH. Tuah\tDinda...","label":[[12,17,"address"]]}
+{"id":200,"text":"201\tH. Tuah\tTapi kanda datang... membawa harapan yang menggunung tinggi.","label":[[17,22,"1st"]]}
+{"id":201,"text":"202\tH. Tuah\tHarapan yang dinda sedia maklum.","label":[[25,30,"2nd"]]}
+{"id":202,"text":"203\tPGL\tKanda, tolong katakan kedatangan kanda bukan titah Sultan Melaka semata-mata.","label":[[41,46,"2nd"],[8,13,"address"]]}
+{"id":203,"text":"204\tPGL\t<(Muka tunduk bawah, kecewa)>","label":[]}
+{"id":204,"text":"205\tH. Tuah\tDinda, tiada cinta dari hati kanda untuk yang lain kecuali dinda.","label":[[41,46,"1st"],[71,76,"2nd"],[12,17,"address"]]}
+{"id":205,"text":"206\tH. Tuah\tCinta kanda melepasi puncak Gunung Ledang ini, melepasi jasad ini, dinda.","label":[[18,23,"1st"],[79,84,"address"]]}
+{"id":206,"text":"207\tPGL\tCinta kanda terlepas dari jasad sendiri?","label":[[14,19,"2nd"]]}
+{"id":207,"text":"208\tPGL\tTergantung di langit?","label":[]}
+{"id":208,"text":"209\tH. Tuah\tApakan daya...","label":[]}
+{"id":209,"text":"210\tH. Tuah\tTangan terikat di langit, kaki terpasak di bumi, jasad tidak setanding mimpi.","label":[]}
+{"id":210,"text":"211\tTun Mamat\t<(datang membawa perutusan)>","label":[]}
+{"id":211,"text":"212\tTun Mamat\tYang Mulia Puteri.","label":[[14,31,"address"]]}
+{"id":212,"text":"213\tTun Mamat\tPatik Tun Mamat datang bersama-sama Datuk Laksamana ini berharap benar jika Puteri dapat menerima lamaran Baginda.","label":[[4,13,"1st"],[90,96,"2nd"]]}
+{"id":213,"text":"214\tTun Mamat\t<(bergerak ke depan mendekati PGL)>","label":[]}
+{"id":214,"text":"215\tTun Mamat\tHancurlah hati kami menyembah Sultan Melaka yang kami cintai, tanpa Puteri sebagai Permaisuri.","label":[[82,88,"2nd"]]}
+{"id":215,"text":"216\tPGL\tApa benar, Datuk Laksamana?","label":[[19,34,"address"]]}
+{"id":216,"text":"217\tPGL\tApa diam Datuk Laksamana suatu kebenaran?","label":[[17,32,"2nd"]]}
+{"id":217,"text":"218\tPGL\tApa kalian tidak tahu saya telah membuat keputusan untuk menerima Pangeran Demak?","label":[[30,34,"1st"]]}
+{"id":218,"text":"219\tTun Mamat\tTuan Puteri, keputusan itu tiada bermakna bagi Demak lagi, kerana Datuk Laksamana Hang Tuah sendiri telah ke bumi Jawa berutusan dengan Demak bagi menyampaikan hasrat peminangan ini.","label":[[14,25,"address"]]}
+{"id":219,"text":"220\tPGL\tBiar 1000 tahun air mengukir batu.","label":[]}
+{"id":220,"text":"221\tPGL\tTetapi Tuah tetap Tuah.","label":[[15,19,"2nd"],[15,19,"2nd"]]}
+{"id":221,"text":"222\tPGL\tBaiklah.","label":[]}
+{"id":222,"text":"223\tPGL\tJikalau itu yang Datuk inginkan, saya setuju.","label":[[41,45,"1st"],[25,29,"2nd"]]}
+{"id":223,"text":"224\tPGL\tSaya terima pinangan itu, asalkan permintaan saya ini dituruti.","label":[[8,12,"1st"],[53,57,"1st"]]}
+{"id":224,"text":"225\tPGL\t<(lalu pergi dengan memberi permintaan dalam tulisan Jawa di atas daun-daunan)>","label":[]}
+{"id":225,"text":"226\tNarrator 1\tDalam perjalanan pulang bersama rombongan, muncul Adipati ingin beradu kesaktian dengan Datuk Laksamana H. Tuah kerana merasa H. Tuah punca kehancuran tanah kelahirannya, menginjak martabatnya dan leluhurnya.","label":[]}
+{"id":226,"text":"227\tNarrator 1\tMaka, beradu tenagalah mereka sehingga akhirnya, Adipati tewas di tangan H. Tuah.","label":[]}
+{"id":227,"text":"228\tH. Tuah\tHamba bersumpah, selagi Tamingsari tenggelam di dasar sungai ini, hamba tidak akan kembali.","label":[[12,17,"1st"],[78,83,"1st"]]}
+{"id":228,"text":"229\tH. Tuah\t<(membaling keris dan beredar dari rombongan peminangan)>","label":[]}
+{"id":229,"text":"230\tAdipati\tKau bertarung untuk dirimu, aku bertarung untuk rakyat dan negeriku.","label":[[40,43,"1st"],[12,15,"2nd"]]}
+{"id":230,"text":"231\tMETA\t","label":[]}
+{"id":231,"text":"232\tS. Mahmud\tWahai Panglima Istana, beta mahu dengan khabar gembira.","label":[[37,41,"1st"],[14,35,"address"]]}
+{"id":232,"text":"233\tS. Mahmud\tNyata segalanya.","label":[]}
+{"id":233,"text":"234\tTun Mamat\tAmpun tuanku, beribu-ribu ampun.","label":[[20,26,"address"]]}
+{"id":234,"text":"235\tTun Mamat\tHamba sekalian membawa berita gembira.","label":[]}
+{"id":235,"text":"236\tTun Mamat\tTuan Puteri akan menjadi Permaisuri Melaka.","label":[]}
+{"id":236,"text":"237\tS. Mahmud\tBeta sudah menduka Puteri Retno akan menjadi milik beta.","label":[]}
+{"id":237,"text":"238\tTun Mamat\tAmpun tuanku, beribu-ribu ampun.","label":[[20,26,"address"]]}
+{"id":238,"text":"239\tTun Mamat\tTuan Puteri mengenakan beberapa syarat peminangan.","label":[]}
+{"id":239,"text":"240\tS. Setia\tAmpun tuanku.","label":[[19,25,"address"]]}
+{"id":240,"text":"241\tS. Setia\tBenar Tuanku.","label":[[19,25,"address"]]}
+{"id":241,"text":"242\tS. Setia\tSyarat-syarat peminangan yang diterima, tujuh sulap kata semuanya.","label":[]}
+{"id":242,"text":"243\tS. Mahmud\tKatakan satu per satu.","label":[]}
+{"id":243,"text":"244\tS. Mahmud\tAkan beta tunaikan semuanya.","label":[[19,23,"1st"]]}
+{"id":244,"text":"245\tTun Mamat\tPertama, air mata dara yang tidak berdarah, tujuh tempayan banyaknya.","label":[]}
+{"id":245,"text":"246\tS. Mahmud\tApakah ertinya, wahai Panglima Istana?","label":[[30,51,"address"]]}
+{"id":246,"text":"247\tS. Setia\tErtinya, tujuh tempayan air mata anak dara sunti, tuanku.","label":[[63,69,"address"]]}
+{"id":247,"text":"248\tS. Mahmud\tHaaa!","label":[]}
+{"id":248,"text":"249\tS. Mahmud\tHaaa!","label":[]}
+{"id":249,"text":"250\tS. Mahmud\tLain pula yang diminta Puteri Retno.","label":[]}
+{"id":250,"text":"251\tS. Mahmud\tPanglima Istana, lagi apa syaratnya?","label":[[14,29,"address"]]}
+{"id":251,"text":"252\tTun Mamat\tKedua, buah pinang.","label":[]}
+{"id":252,"text":"253\tTun Mamat\tBukannya kahwin kerana tidak tua, merah darahnya.","label":[]}
+{"id":253,"text":"254\tTun Mamat\tTujuh tempayan banyaknya.","label":[]}
+{"id":254,"text":"255\tS. Mahmud\tBeta kurang memahami permintaan Puteri Retno.","label":[[14,18,"1st"]]}
+{"id":255,"text":"256\tS. Setia\tAmpun tuanku, beribu-ribu ampun.","label":[[19,25,"address"]]}
+{"id":256,"text":"257\tS. Setia\tErtinya, tujuh tempayan air pinang muda, tuanku.","label":[[54,60,"address"]]}
+{"id":257,"text":"258\tS. Mahmud\tAaaa, aneh juga permintaan Puteri Retno.","label":[]}
+{"id":258,"text":"259\tS. Mahmud\tJangankan tujuh tempayan, sepuluh tempayan pun beta sanggup hadiahkan.","label":[[61,65,"1st"]]}
+{"id":259,"text":"260\tS. Mahmud\tPanglima Istana, bacakan lagi permintaan Puteri Retno seterusnya.","label":[[14,29,"address"]]}
+{"id":260,"text":"261\tTun Mamat\tKetiga, merangkak bebas di dataran, darah juga kehendaknya.","label":[]}
+{"id":261,"text":"262\tTun Mamat\tSifatnya tujuh dulang banyaknya.","label":[]}
+{"id":262,"text":"263\tS. Mahmud\tPuteri Retno seolah-olah berteka-teki dengan beta.","label":[]}
+{"id":263,"text":"264\tS. Mahmud\tApakah jua maksudnya?","label":[]}
+{"id":264,"text":"265\tS. Setia\tAmpun tuanku, beribu-ribu ampun.","label":[[19,25,"address"]]}
+{"id":265,"text":"266\tS. Setia\tErtinya, tujuh dulang hati hama, tuanku.","label":[[46,52,"address"]]}
+{"id":266,"text":"267\tS. Mahmud\tApakah jua yang terpendam di hati Puteri Retno.","label":[]}
+{"id":267,"text":"268\tS. Mahmud\tBeta tidak dapat membayangkannya.","label":[[14,18,"1st"]]}
+{"id":268,"text":"269\tS. Mahmud\tPanglima Istana, laksanakanlah permintaan Puteri Retno itu.","label":[[14,29,"address"]]}
+{"id":269,"text":"270\tS. Setia\tMenjunjung titah, tuanku.","label":[[31,37,"address"]]}
+{"id":270,"text":"271\tS. Mahmud\tDatuk Panglima, beritahu beta syarat seterusnya.","label":[[39,43,"1st"],[14,28,"address"]]}
+{"id":271,"text":"272\tS. Mahmud\tBeta tak sabar hendak tahu.","label":[[14,18,"1st"]]}
+{"id":272,"text":"273\tTun Mamat\tAmpun tuanku, beribu-ribu ampun.","label":[[20,26,"address"]]}
+{"id":273,"text":"274\tTun Mamat\tKeempat, terbang bebas di udara, darah juga kehendaknya.","label":[]}
+{"id":274,"text":"275\tTun Mamat\tSifatnya tujuh dulang banyaknya, tuanku.","label":[[47,53,"address"]]}
+{"id":275,"text":"276\tS. Mahmud\tAlang-alang seluk pekasam, biar sampai ke pangkal lengan.","label":[]}
+{"id":276,"text":"277\tS. Mahmud\tDatuk Panglima, tunaikan segala yang diminta Puteri Retno.","label":[[14,28,"address"]]}
+{"id":277,"text":"278\tS. Mahmud\tBeta mahu lihat semuanya terlaksana dengan sempurna.","label":[[14,18,"1st"]]}
+{"id":278,"text":"279\tS. Setia\tAmpun tuanku, beribu-ribu ampun.","label":[[19,25,"address"]]}
+{"id":279,"text":"280\tS. Setia\tTuan Puteri Retno mahukan tujuh dulang hati nyamuk.","label":[]}
+{"id":280,"text":"281\tS. Setia\tApa khasiatnya bagi Tuan Puteri, ya?","label":[]}
+{"id":281,"text":"282\tTun Mamat\tAmpun tuanku, beribu-ribu ampun.","label":[[20,26,"address"]]}
+{"id":282,"text":"283\tTun Mamat\tMasih ada dua tiga lagi permintaan Tuan Puteri, tuanku.","label":[[62,68,"1st"]]}
+{"id":283,"text":"284\tTun Mamat\tKelima, darah merah rakyat untuk menambat darah putih dari tapak ke takhta.","label":[]}
+{"id":284,"text":"285\tTun Mamat\tErtinya, jambatan perak dari Melaka ke puncak Gunung Ledang.","label":[]}
+{"id":285,"text":"286\tS. Mahmud\tKerahkan rakyat Melaka, jayakan permintaan Puteri Retno.","label":[]}
+{"id":286,"text":"287\tS. Mahmud\tBaginda mahu lihat segalanya berjaya.","label":[]}
+{"id":287,"text":"288\tS. Setia\tAmpun tuanku, beribu-ribu ampun.","label":[[19,25,"address"]]}
+{"id":288,"text":"289\tS. Setia\tSyarat keenam, tuanku, darah merah rakyat untuk menambat darah kuning dari tapak ke takhta.","label":[[28,34,"address"]]}
+{"id":289,"text":"290\tS. Setia\tErtinya, jambatan emas dari Melaka ke puncak Gunung Ledang.","label":[]}
+{"id":290,"text":"291\tTun Mamat\tBenar tuanku.","label":[[20,26,"address"]]}
+{"id":291,"text":"292\tTun Mamat\tItulah permintaan keenam Tuan Puteri.","label":[]}
+{"id":292,"text":"293\tTun Mamat\tDan permintaan terakhir Tuan Puteri.......","label":[]}
+{"id":293,"text":"294\tTun Mamat\t<(terdiam, takut, serba salah)>","label":[]}
+{"id":294,"text":"295\tS. Mahmud\tDatuk Panglima, cepat.","label":[[14,28,"address"]]}
+{"id":295,"text":"296\tS. Mahmud\tCakaplah segera.","label":[]}
+{"id":296,"text":"297\tS. Mahmud\tBeta tak sabar hendak mendengarnya.","label":[[14,18,"1st"]]}
+{"id":297,"text":"298\tS. Mahmud\tMengapa Datuk Panglima membisu?","label":[[22,36,"2nd"]]}
+{"id":298,"text":"299\tTun Mamat\tAmpun tuanku, beribu-ribu ampun.","label":[[20,26,"address"]]}
+{"id":299,"text":"300\tTun Mamat\tTak terkeluar kata-kata dari mulut hamba ini.","label":[[49,54,"1st"]]}
+{"id":300,"text":"301\tTun Mamat\tAlangkah susahnya hamba hendak menyampaikan.","label":[[32,37,"1st"]]}
+{"id":301,"text":"302\tTun Mamat\tKetujuh, darah seguntang tetap mengalir, badan bersilih menanti.","label":[]}
+{"id":302,"text":"303\tTun Mamat\tSebatil.","label":[]}
+{"id":303,"text":"304\tS. Setia\tAmpun tuanku.","label":[[19,25,"address"]]}
+{"id":304,"text":"305\tS. Setia\tErtinya, darah Raja Ahmad, putera baginda Sultan Melaka.","label":[]}
+{"id":305,"text":"306\tS. Mahmud\tBiar diketahui semua, tanggungjawab beta bukan sekadar memberi titah.","label":[]}
+{"id":306,"text":"307\tS. Mahmud\tPutera beta atau tanah Jawa.","label":[]}
+{"id":307,"text":"308\tS. Mahmud\tSemua ini peritnya seperti menelan hempedu, bagai racun menusuk kalbu.","label":[]}
+{"id":308,"text":"309\tS. Mahmud\tTetapi ia bukan penghalang.","label":[]}
+{"id":309,"text":"310\tNarrator 2\tAngin kuat memasuki ruang Istana, jelmaan Puteri Gunung Ledang datang menghadap baginda Sultan.","label":[]}
+{"id":310,"text":"311\tPGL\tAmpun tuanku.","label":[[14,20,"address"]]}
+{"id":311,"text":"312\tPGL\tPengorbanan demi cinta adalah indah.","label":[]}
+{"id":312,"text":"313\tPGL\tDan pengorbanan demi negara sungguh mulia.","label":[]}
+{"id":313,"text":"314\tPGL\tTapi apalah ertinya berkorban dengan tangan berlumur darah manusia yang tidak berdosa.","label":[]}
+{"id":314,"text":"315\tPGL\tApa tuanku sanggup melakukannya?","label":[[12,18,"2nd"]]}
+{"id":315,"text":"316\tPGL\tMungkin belum jelas bagi tuanku kalau permintaan saya sebetulnya satu penolakan.","label":[[33,39,"2nd"]]}
+{"id":316,"text":"317\tS. Mahmud\tApakah ini semua hanya satu permainan?","label":[]}
+{"id":317,"text":"318\tS. Mahmud\tBeta sanggup berkorban demi rakyatmu.","label":[[14,18,"1st"]]}
+{"id":318,"text":"319\tS. Mahmud\tDan kamu memperkecilkan usaha beta ini?","label":[[18,22,"2nd"]]}
+{"id":319,"text":"320\tS. Mahmud\tBerani kamu... mempersendakan beta.","label":[[44,48,"1st"],[21,25,"2nd"]]}
+{"id":320,"text":"321\tS. Mahmud\tMempersendakan Beta yang ingin melindungi kedaulatan kerajaanmu.","label":[]}
+{"id":321,"text":"322\tPGL\tSungguh mulia niat, tuanku.","label":[[28,34,"address"]]}
+{"id":322,"text":"323\tPGL\tTapi apakah itu niat yang keluar dari hati?","label":[]}
+{"id":323,"text":"324\tPGL\tSaya telah membuat keputusan untuk pulang ke Jawa untuk bersama Pangeran Demak.","label":[[8,12,"1st"]]}
+{"id":324,"text":"325\tPGL\tMengapa tujuan itu juga tuanku halangi?","label":[[32,38,"2nd"]]}
+{"id":325,"text":"326\tS. Mahmud\tKamu sedar, tak, kepada siapa kamu berkata ini?","label":[[14,18,"2nd"],[44,48,"2nd"]]}
+{"id":326,"text":"327\tS. Mahmud\tBeta bukan rakyat kecilmu, untuk kamu lakukan sedemikian rupa.","label":[[14,18,"1st"],[47,51,"2nd"]]}
+{"id":327,"text":"328\tPGL\tRakyat kecil saya?","label":[]}
+{"id":328,"text":"329\tPGL\tRakyat kecil saya yang demi mereka tuanku sanggup korbankan Putera Mahkota itu?","label":[[43,49,"2nd"]]}
+{"id":329,"text":"330\tPGL\tApa ada di kalangan kalian yang bertanya mengapa saya datang ke negeri ini?","label":[[57,61,"1st"]]}
+{"id":330,"text":"331\tPGL\tSaya hanya menuruti kata hati.","label":[[8,12,"1st"]]}
+{"id":331,"text":"332\tPGL\tItu hak saya.","label":[[16,20,"1st"]]}
+{"id":332,"text":"333\tPGL\tHak setiap manusia.","label":[]}
+{"id":333,"text":"334\tPGL\tHak untuk memilih.","label":[]}
+{"id":334,"text":"335\tPGL\tSaya tidak ingin layu di istana.","label":[[8,12,"1st"]]}
+{"id":335,"text":"336\tPGL\tSaya ingin merdeka.","label":[[8,12,"1st"]]}
+{"id":336,"text":"337\tPGL\tBebas untuk mencintai dan dicintai.","label":[]}
+{"id":337,"text":"338\tPGL\tBukan mengingkari kebesaran Melaka.","label":[]}
+{"id":338,"text":"339\tPGL\tJikalau betul kebesaran Melaka berada di telunjuk tuanku, mengapa perlu perkahwinan ini untuk menyelamatkan negara saya?","label":[[58,64,"2nd"]]}
+{"id":339,"text":"340\tS. Mahmud\t<(berjalan ke arah PGL)>","label":[]}
+{"id":340,"text":"341\tS. Mahmud\tKamu berkata tanpa beralas.","label":[[14,18,"2nd"]]}
+{"id":341,"text":"342\tS. Mahmud\tKamu lupa Melaka ini negeri berdaulat.","label":[[14,18,"2nd"]]}
+{"id":342,"text":"343\tS. Mahmud\tSehiris luka yang beta terima di tanah yang kamu pijak ini, se-Melaka sakitnya terasa.","label":[[32,36,"1st"],[58,62,"2nd"]]}
+{"id":343,"text":"344\tS. Mahmud\tPilu beta dengar hirisan katamu itu.","label":[[19,23,"1st"]]}
+{"id":344,"text":"345\tPGL\tSaya hanya ingin berdiam di atas puncak Gunung Ledang.","label":[[8,12,"1st"]]}
+{"id":345,"text":"346\tPGL\tSupaya tidak melukai hati sesiapa pun.","label":[]}
+{"id":346,"text":"347\tPGL\tIzinkan saya, tuanku.","label":[[16,20,"1st"],[22,28,"address"]]}
+{"id":347,"text":"348\tS. Mahmud\tBeta perkenankan permintaan kamu.","label":[[14,18,"1st"],[42,46,"2nd"]]}
+{"id":348,"text":"349\tS. Mahmud\tTetapi, perbuatanmu ini tetap derhaka.","label":[]}
+{"id":349,"text":"350\tS. Mahmud\tDan sesungguhnya bumi Melaka ini bumi berdaulat.","label":[]}
+{"id":350,"text":"351\tS. Mahmud\tKamu akan keseorangan di puncak Gunung Ledang sahaja.","label":[[14,18,"2nd"]]}
+{"id":351,"text":"352\tS. Mahmud\tTidak boleh dipandang sesiapa sesudah subuh kelak.","label":[]}
+{"id":352,"text":"353\tS. Mahmud\tBeta sumpah hilang nyawa bermuntahkan darah.","label":[[14,18,"1st"]]}
+{"id":353,"text":"354\tS. Mahmud\t<(keris ditikam ke lantai)>","label":[]}
+{"id":354,"text":"355\tPGL\tMemang besar daulat Melaka.","label":[]}
+{"id":355,"text":"356\tPGL\tTetapi tuanku membazirkannya.","label":[[15,21,"2nd"]]}
+{"id":356,"text":"357\tPGL\tDaulat tuanku.","label":[[8,21,"address"]]}
+{"id":357,"text":"358\tPGL\tSemoga tuanku tetap bertakhta hingga ke akhir zaman.","label":[[15,21,"2nd"]]}
+{"id":358,"text":"359\tMETA\t<(Muzik latar belakang)>","label":[]}
+{"id":359,"text":"360\tNarrator 1\tHang Tuah datang ke Puncak Gunung Ledang setelah menerima perkhabaran itu.","label":[]}
+{"id":360,"text":"361\tNarrator 1\tMemohon keampunan atas kesalahannya yang tidak mempertahankan cinta mereka.","label":[]}
+{"id":361,"text":"362\tH. Tuah\tSekiranya adinda izinkan, biarlah kanda menetap di sini, menghirup udara yang sama dan bertapak di tanah yang sama dengan adinda.","label":[[46,51,"1st"],[22,28,"2nd"],[22,28,"2nd"]]}
+{"id":362,"text":"363\tH. Tuah\tJikalau adinda setuju, berikanlah kanda petunjuk.","label":[[46,51,"1st"],[20,26,"2nd"]]}
+{"id":363,"text":"364\tH. Tuah\tSesungguhnya kanda cintakan dinda.","label":[[25,30,"1st"],[40,45,"2nd"]]}
+{"id":364,"text":"365\tH. Tuah\t<(bersujud ke tanah)>","label":[]}
+{"id":365,"text":"366\tPGL\tKuhinakan diriku sendiri untuk memiliki cinta sejati.","label":[[22,24,"1st"]]}
+{"id":366,"text":"367\tPGL\tCintamu bagai cahaya mentari yang membakar wajahku.","label":[[56,58,"1st"],[13,15,"2nd"]]}
+{"id":367,"text":"368\tPGL\tMeski sekilas kurasakan, namun akan menjadi bekal sampai akhir zaman.","label":[]}
+{"id":368,"text":"369\tPGL\tAku juga mencintaimu, Tuah.","label":[[8,11,"1st"],[30,34,"address"]]}
+{"id":369,"text":"370\tMETA\t<(Muzik latar belakang)>","label":[]}
+{"id":370,"text":"371\tNarrator 2\tCinta agung yang tidak bersemi, tetapi masih tetap termeterai.","label":[]}
+{"id":371,"text":"372\tNarrator 2\tUmpama rindu bulan mengelilingi bumi menyinari kegelapan di malam hari.","label":[]}
+{"id":372,"text":"373\tNarrator 2\tSejak itu tiada khabar berita tentang kedua insan bercinta.","label":[]}
+{"id":373,"text":"374\tNarrator 2\tNamun Gunung Ledang menjadi tanda keagungan dan keluhuran cinta mereka.","label":[]}
+{"id":374,"text":"375\tNarrator 2\tPengorbanan cinta indah.","label":[]}

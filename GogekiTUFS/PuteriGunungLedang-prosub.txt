@@ -1,0 +1,216 @@
+Subcorp	\Filename	ID	Start	End	Text	Comment	Role	ParentID	doc_completeness	prosub	1st	2nd	address
+Texts	PuteriGunungLedang.txt	1	137	145	adindaku					1	0	1	0
+Texts	PuteriGunungLedang.txt	2	186	192	Adinda					1	1	0	0
+Texts	PuteriGunungLedang.txt	3	322	333	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	4	399	405	Adinda					1	1	0	0
+Texts	PuteriGunungLedang.txt	5	448	454	adinda					1	1	0	0
+Texts	PuteriGunungLedang.txt	6	502	513	Tuan Puteri					1	0	1	0
+Texts	PuteriGunungLedang.txt	7	605	608	aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	8	711	722	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	9	724	735	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	10	749	760	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	11	771	774	Aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	12	894	896	ku					1	1	0	0
+Texts	PuteriGunungLedang.txt	13	907	910	Aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	14	990	1001	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	15	2363	2365	mu					1	0	1	0
+Texts	PuteriGunungLedang.txt	16	2399	2401	mu					1	0	1	0
+Texts	PuteriGunungLedang.txt	17	2541	2545	Tuah					1	0	1	0
+Texts	PuteriGunungLedang.txt	18	2575	2579	Tuah					1	0	1	0
+Texts	PuteriGunungLedang.txt	19	2631	2635	Tuah					1	0	1	0
+Texts	PuteriGunungLedang.txt	20	2732	2735	kau					1	0	1	0
+Texts	PuteriGunungLedang.txt	21	3034	3038	Tuah					1	0	0	1
+Texts	PuteriGunungLedang.txt	22	3056	3062	engkau					1	0	1	0
+Texts	PuteriGunungLedang.txt	23	3184	3186	ku					1	1	0	0
+Texts	PuteriGunungLedang.txt	24	3210	3212	ku					1	1	0	0
+Texts	PuteriGunungLedang.txt	25	3220	3225	Jebat					1	0	0	1
+Texts	PuteriGunungLedang.txt	26	3286	3290	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	27	3338	3342	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	28	3382	3386	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	29	3540	3544	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	30	3639	3645	Tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	31	3768	3783	Datuk Laksamana					1	0	0	1
+Texts	PuteriGunungLedang.txt	32	3834	3840	Tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	33	3873	3879	Tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	34	3941	3947	Tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	35	4033	4048	Datuk Bendahara					1	0	0	1
+Texts	PuteriGunungLedang.txt	36	4093	4097	Tuah					1	0	0	1
+Texts	PuteriGunungLedang.txt	37	4099	4103	Tuah					1	0	0	1
+Texts	PuteriGunungLedang.txt	38	4128	4134	Tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	39	4348	4363	Datuk Laksamana					1	0	0	1
+Texts	PuteriGunungLedang.txt	40	4517	4522	datuk					1	1	0	0
+Texts	PuteriGunungLedang.txt	41	4553	4558	datuk					1	1	0	0
+Texts	PuteriGunungLedang.txt	42	4597	4602	Nenek					1	0	0	1
+Texts	PuteriGunungLedang.txt	43	4636	4641	nenek					1	0	0	1
+Texts	PuteriGunungLedang.txt	44	4672	4677	nenek					1	0	1	0
+Texts	PuteriGunungLedang.txt	45	4764	4769	Nenek					1	1	0	0
+Texts	PuteriGunungLedang.txt	46	4794	4796	cu					1	0	0	1
+Texts	PuteriGunungLedang.txt	47	4853	4858	Nenek					1	0	0	1
+Texts	PuteriGunungLedang.txt	48	4911	4915	cucu					1	1	0	0
+Texts	PuteriGunungLedang.txt	49	5036	5041	nenek					1	0	1	0
+Texts	PuteriGunungLedang.txt	50	5149	5154	Nenek					1	0	0	1
+Texts	PuteriGunungLedang.txt	51	5319	5324	nenek					1	1	0	0
+Texts	PuteriGunungLedang.txt	52	5578	5580	cu					1	1	0	0
+Texts	PuteriGunungLedang.txt	53	5632	5634	cu					1	0	0	1
+Texts	PuteriGunungLedang.txt	54	5659	5667	nenekkkk					1	0	0	1
+Texts	PuteriGunungLedang.txt	55	5768	5771	nek					1	0	0	1
+Texts	PuteriGunungLedang.txt	56	5927	5929	cu					1	0	0	1
+Texts	PuteriGunungLedang.txt	57	6431	6433	cu					1	0	0	1
+Texts	PuteriGunungLedang.txt	59	6482	6487	nenek					1	1	0	0
+Texts	PuteriGunungLedang.txt	58	6533	6535	cu					1	0	1	0
+Texts	PuteriGunungLedang.txt	60	7614	7619	Dinda					1	0	0	1
+Texts	PuteriGunungLedang.txt	61	7648	7653	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	62	7662	7667	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	63	7697	7702	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	64	7711	7716	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	65	7906	7909	Aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	66	8046	8049	Aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	67	8230	8232	Ku					1	1	0	0
+Texts	PuteriGunungLedang.txt	68	8485	8496	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	69	8564	8575	tuan puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	70	8700	8711	tuan puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	71	8795	8810	Datuk Laksamana					1	0	0	1
+Texts	PuteriGunungLedang.txt	72	8837	8842	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	73	8916	8921	Hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	74	9092	9107	Datuk Laksamana					1	0	1	0
+Texts	PuteriGunungLedang.txt	75	9136	9141	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	76	9158	9163	Hamba					1	0	0	0
+Texts	PuteriGunungLedang.txt	77	9208	9214	Tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	78	9246	9251	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	79	9286	9291	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	80	9523	9529	adinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	81	9531	9542	buah hatiku					1	0	0	1
+Texts	PuteriGunungLedang.txt	82	9558	9565	kekanda					1	0	0	1
+Texts	PuteriGunungLedang.txt	83	9623	9628	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	84	9641	9646	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	85	9677	9682	kanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	86	9858	9865	kekanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	87	9892	9898	adinda					1	1	0	0
+Texts	PuteriGunungLedang.txt	88	9918	9920	mu					1	0	1	0
+Texts	PuteriGunungLedang.txt	89	9968	9971	aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	90	10029	10034	dinda					1	1	0	0
+Texts	PuteriGunungLedang.txt	91	10056	10063	kekanda					1	0	0	1
+Texts	PuteriGunungLedang.txt	92	10150	10155	Kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	93	10167	10172	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	94	10208	10215	kekanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	95	10281	10286	dinda					1	0	0	1
+Texts	PuteriGunungLedang.txt	96	10304	10309	kanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	97	10397	10402	Kanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	98	10438	10443	Dinda					1	0	0	1
+Texts	PuteriGunungLedang.txt	99	10465	10470	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	100	10547	10552	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	101	10576	10581	Kanda					1	0	0	1
+Texts	PuteriGunungLedang.txt	102	10609	10614	kanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	103	10706	10711	Dinda					1	0	0	1
+Texts	PuteriGunungLedang.txt	104	10735	10740	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	105	10765	10770	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	106	10791	10796	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	107	10852	10857	dinda					1	0	0	1
+Texts	PuteriGunungLedang.txt	108	10874	10879	kanda					1	0	1	0
+Texts	PuteriGunungLedang.txt	109	11118	11135	Yang Mulia Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	110	11158	11167	Tun Mamat					1	1	0	0
+Texts	PuteriGunungLedang.txt	111	11228	11234	Puteri					1	0	1	0
+Texts	PuteriGunungLedang.txt	112	11401	11407	Puteri					1	0	1	0
+Texts	PuteriGunungLedang.txt	113	11448	11463	Datuk Laksamana					1	0	0	1
+Texts	PuteriGunungLedang.txt	114	11483	11498	Datuk Laksamana					1	0	1	0
+Texts	PuteriGunungLedang.txt	115	11547	11551	saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	116	11622	11633	Tuan Puteri					1	0	0	1
+Texts	PuteriGunungLedang.txt	117	11865	11869	Tuah					1	0	1	0
+Texts	PuteriGunungLedang.txt	118	11876	11880	Tuah					1	0	1	0
+Texts	PuteriGunungLedang.txt	119	11926	11930	Datu					1	0	1	0
+Texts	PuteriGunungLedang.txt	120	11942	11946	saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	121	11964	11968	Saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	122	12009	12013	saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	123	12453	12458	Hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	124	12519	12524	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	125	12629	12632	Kau					1	0	1	0
+Texts	PuteriGunungLedang.txt	126	12657	12660	aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	128	12757	12778	Wahai Panglima Istana					1	0	0	1
+Texts	PuteriGunungLedang.txt	127	12780	12784	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	129	12866	12872	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	130	13099	13105	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	131	13212	13218	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	132	13240	13246	Tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	133	13387	13391	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	134	13527	13548	wahai Panglima Istana					1	0	0	1
+Texts	PuteriGunungLedang.txt	135	13614	13620	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	136	13731	13746	Panglima Istana					1	0	0	1
+Texts	PuteriGunungLedang.txt	137	13924	13928	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	138	13990	13996	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	139	14072	14078	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	140	14198	14202	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	141	14237	14252	Panglima Istana					1	0	0	1
+Texts	PuteriGunungLedang.txt	142	14486	14490	beta					1	0	0	0
+Texts	PuteriGunungLedang.txt	143	14549	14555	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	144	14623	14629	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	145	14709	14713	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	146	14758	14773	Panglima Istana					1	0	0	1
+Texts	PuteriGunungLedang.txt	147	14850	14856	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	148	14873	14887	Datuk Panglima					1	0	0	1
+Texts	PuteriGunungLedang.txt	149	14898	14902	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	150	14937	14941	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	151	14986	14992	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	152	15133	15139	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	153	15229	15243	Datuk Panglima					1	0	0	1
+Texts	PuteriGunungLedang.txt	154	15303	15307	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	155	15376	15382	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	156	15541	15547	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	157	15631	15637	tuanku					1	1	0	0
+Texts	PuteriGunungLedang.txt	158	15951	15957	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	159	16007	16013	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	160	16179	16185	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	161	16360	16374	Datuk Panglima					1	0	0	1
+Texts	PuteriGunungLedang.txt	162	16430	16434	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	163	16489	16503	Datuk Panglima					1	0	1	0
+Texts	PuteriGunungLedang.txt	164	16534	16540	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	165	16611	16616	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	166	16655	16660	hamba					1	1	0	0
+Texts	PuteriGunungLedang.txt	167	16806	16812	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	168	17270	17276	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	169	17485	17491	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	170	17548	17554	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	171	17673	17677	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	172	17730	17734	kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	173	17788	17792	kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	174	17811	17815	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	175	17926	17932	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	176	17996	18000	Saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	177	18109	18115	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	178	18140	18144	Kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	179	18170	18174	kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	180	18203	18207	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	181	18236	18240	kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	182	18338	18344	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	183	18441	18445	saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	184	18477	18481	Saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	185	18525	18529	saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	186	18597	18601	Saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	187	18639	18643	Saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	188	18808	18814	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	189	18934	18938	Kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	190	18977	18981	Kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	191	19049	19053	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	192	19075	19079	kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	193	19138	19142	beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	194	19179	19183	Saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	195	19299	19303	saya					1	1	0	0
+Texts	PuteriGunungLedang.txt	196	19305	19311	tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	197	19328	19332	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	199	19356	19360	kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	198	19495	19499	Kamu					1	0	1	0
+Texts	PuteriGunungLedang.txt	200	19630	19634	Beta					1	1	0	0
+Texts	PuteriGunungLedang.txt	201	19771	19777	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	202	19803	19816	Daulat tuanku					1	0	0	1
+Texts	PuteriGunungLedang.txt	203	19834	19840	tuanku					1	0	1	0
+Texts	PuteriGunungLedang.txt	204	20121	20127	adinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	205	20145	20150	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	206	20233	20239	adinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	207	20262	20268	adinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	208	20288	20293	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	209	20330	20335	kanda					1	1	0	0
+Texts	PuteriGunungLedang.txt	210	20345	20350	dinda					1	0	1	0
+Texts	PuteriGunungLedang.txt	211	20410	20412	ku					1	1	0	0
+Texts	PuteriGunungLedang.txt	212	20464	20466	mu					1	0	1	0
+Texts	PuteriGunungLedang.txt	213	20507	20509	ku					1	1	0	0
+Texts	PuteriGunungLedang.txt	214	20599	20602	Aku					1	1	0	0
+Texts	PuteriGunungLedang.txt	215	20621	20625	Tuah					1	0	0	1
